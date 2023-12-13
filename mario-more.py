@@ -12,6 +12,6 @@ for i in range(height):
     for k in range(i + 1):
         print("#", end="")
     print("  ", end="")
-    for k in range(i + 1):
+    for l in range(i + 1):
         print("#", end="")
     print("")
